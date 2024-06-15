@@ -26,6 +26,11 @@ export default async function Page() {
             Go to: Countries app, fixed
           </Link>
         </li>
+        <li>
+          <Link href="/countries-mobx" className="hover:underline">
+            Go to: Countries app, mobx
+          </Link>
+        </li>
       </ul>
     </div>
   );
