@@ -1,3 +1,7 @@
+# Mobx experiment with React Compiler
+
+See https://fosstodon.org/@mrj/112624267229880874 as well as the excellent [original](https://developerway.com/posts/i-tried-react-compiler).
+
 # React Compiler test run
 
 This is a few code examples of the React Compiler working and not working. They are written to illustrate the article [I tried React Compiler today, and guess what... 😉](https://developerway.com/posts/i-tried-react-compiler)
