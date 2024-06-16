@@ -31,6 +31,11 @@ export default async function Page() {
             Go to: Countries app, mobx
           </Link>
         </li>
+        <li>
+          <Link href="/countries-mobx-additional" className="hover:underline">
+            Go to: Countries app, mobx with additional optimizations
+          </Link>
+        </li>
       </ul>
     </div>
   );

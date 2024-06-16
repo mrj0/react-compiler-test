@@ -28,7 +28,7 @@ const CountryRow = ({
   return (
     <TableRow key={`${name.toLowerCase()}`}>
       <TableCell className="font-medium">
-        <Link href={`/countriy/${name.toLowerCase()}`}>{name}</Link>
+        <Link href={`/country/${name.toLowerCase()}`}>{name}</Link>
       </TableCell>
       <TableCell className="text-right">
         <Button onClick={() => onDelete(name)} variant="outline">
